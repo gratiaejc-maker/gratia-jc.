@@ -1,1 +1,1 @@
-window.GRATIA={"whatsapp":"https://chat.whatsapp.com/DExOzb8QppBGhXMP6Ss5ZN?s=cl&p=i&iam=2","participants":1000,"tracking":{"metaPixelId":"1504988414783751","ga4Id":"","allowedHosts":["gratiajc.com.br","www.gratiajc.com.br"],"metaClickStandardEvent":""}};
+window.GRATIA={"whatsapp":"https://chat.whatsapp.com/JTf9vDbsnQOAf1HQVgfFEE?mode=gi_t","participants":1000,"tracking":{"metaPixelId":"1504988414783751","ga4Id":"","allowedHosts":["gratiajc.com.br","www.gratiajc.com.br"],"metaClickStandardEvent":""}};
